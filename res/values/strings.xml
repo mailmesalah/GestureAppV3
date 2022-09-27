@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gesture App</string>
+    <string name="title_activity_image">Image Activity</string>
+    <string name="title_activity_load">Gesture App</string>
+    <string name="title_activity_single_image">Image</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_keyboard">Keyboard Activity</string>
+    <string name="title_activity_zoom">Zoom Image Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_flip">Flip Image Activity</string>
+    <string name="title_activity_fling">FlingActivity</string>
+    <string name="title_activity_other">OtherActivity</string>
+
+</resources>
